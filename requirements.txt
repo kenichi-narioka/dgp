@@ -1,12 +1,12 @@
-awscli
+# awscli
 boto3
 botocore
-Click>=7.1.2
-coverage>=6.0.2
+# Click>=7.1.2
+# coverage>=6.0.2
 diskcache>=4.1.0
 grpcio>=1.41.0
 grpcio-tools>=1.41.0
-isort >=5.0,<6.0
+# isort >=5.0,<6.0
 matplotlib==3.5.2
 opencv-python>=4.5.3.56
 Pillow>=8.3.2
@@ -21,4 +21,4 @@ tqdm>=4.29.1
 tenacity>=6.0.0
 ujson>=1.35
 xarray>=0.16.2
-yapf>=0.31.0
+# yapf>=0.31.0

@@ -1,0 +1,7 @@
+-r requirements.txt
+awscli
+Click>=7.1.2
+coverage>=6.0.2
+diskcache>=4.1.0
+isort >=5.0,<6.0
+yapf>=0.31.0
