@@ -1,3 +1,4 @@
+awscli
 boto3
 botocore
 Click>=7.1.2
