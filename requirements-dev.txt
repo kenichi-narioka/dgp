@@ -1,6 +1,10 @@
 awscli
 Click>=7.1.2
-coverage>=6.0.2
-diskcache>=4.1.0
+coverage==6.0.2
+grpcio==1.41.0
+grpcio-tools==1.41.0
 isort >=5.0,<6.0
-yapf>=0.31.0
+pylint>=2.8.1
+pytest-timeout==2.0.1
+ujson==1.35
+yapf==0.31.0
